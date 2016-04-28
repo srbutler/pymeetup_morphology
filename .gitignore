@@ -9,6 +9,8 @@ data/goldstdsample*
 data/wordlist*
 data/tl_babel_tokens.txt
 
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
